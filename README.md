@@ -1,8 +1,7 @@
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-# ![ThuHang's Example App](./static/rwv-logo.png)
-
+# ThuHang's Example App
 > Vue.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 Project demo is available at https://vue-vuex-realworld.netlify.app/
